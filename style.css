@@ -64,12 +64,9 @@ aside {
 .headers {
     display: flex;
     flex-direction: row;
-    text-align: center;
+
 }
 
-h1 {
-    text-align: center;
-}
 
 p {
     color: #777;
